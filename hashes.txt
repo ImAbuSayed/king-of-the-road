@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - King of the Road
+
+This log tracks the cryptographic history and versioning for the song **King of the Road** (king-of-the-road).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-05-22T04:18:22.395913 | `v1` | `6ef7b1aad46c412a7b3ff39484f200282c161b423c84cabaf5b098d849648f70` | `6dda118cc070ff4af2b66edafd38f1b2e08a5aa0ca99e33d51f9a1bf4ece1b8a` | `2026-05-22_king-of-the-road-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*
