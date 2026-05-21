@@ -15,7 +15,7 @@
 | **Written On** | May 19, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/king-of-the-road/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Get a Licensing Quote for King of the Road](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/king-of-the-road/) |
+| **Get License** | [License this song: King of the Road](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/king-of-the-road/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> Got the engine humming right outside your door
+> Craving that heat I've been waiting for
+> Slide in the passenger, let the tires spin
+> We're chasing down the night where the sparks begin
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
